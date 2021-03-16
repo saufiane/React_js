@@ -73,5 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Ressources
 Vidéo de Lior Chamla sur " ⚛️ REACT : 1H POUR COMPRENDRE LA LIBRAIRIE !"
 
-https://codesandbox.io/s/video-intro-react-6trg5?file=/src/ClientForm.jsx
-https://www.youtube.com/watch?v=no82oluCZag
+- https://codesandbox.io/s/video-intro-react-6trg5?file=/src/ClientForm.jsx
+- https://www.youtube.com/watch?v=no82oluCZag
